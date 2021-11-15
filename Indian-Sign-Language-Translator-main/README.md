@@ -72,10 +72,10 @@ This translator was originally created as part of our Final Year Project, consis
 
 | Name | GithubID |
 | ----------- | ----------- |
-| Abhishek Singh Dhadwal | [AbhishekSinghDhadwal](https://github.com/AbhishekSinghDhadwal) |
-| Saurabh Pujari | [saurabh0719](https://github.com/saurabh0719) | 
-| Kopal Bhatnagar | [kopalbhatnagar05](https://github.com/kopalbhatnagar05) | 
-| Yash Kumar | [yashKumar2412](https://github.com/yashKumar2412) | 
+| Krishna Shashank DV | [Krishna Shashank]() |
+| K Sai Sudhamsh | [K Sai Sudhamsh]() | 
+| Kavuri Krishna Sankeerth | [Kavuri Krishna Sankeerth]() | 
+| SivaDatta Gunturi | [SivaDatta Gunturi]() | 
 
 #### Credits:
 1. Jeanvit, for the skin segmentation algorithm [code](https://github.com/Jeanvit/PySkinDetection)
